@@ -1,0 +1,91 @@
+{    
+     "Version": "2.4.0",
+     "namalu" : "Arya",
+     "nomerlu": "6285811965686",
+     "namabot": "iMystBot",
+     "nomerbot": "6285811965687",
+     "gender" : "_",
+     "copyright" : "iMystBot",
+     "namaDocument": "iMystBot",
+     "joinGcExtream": false,
+
+     "Anticall": true,
+     "publik": true,
+     "forwarding": true,
+     "Loading": false,
+     "antitroli" : false,
+     
+     "autovn" : false,
+     "autosticker" : false,
+     "autorespon" : false,
+     "autotyping" : true,
+     "autoread" : false,
+     "autoblockcmd" : false, 
+     "autobio" : true,
+     "autoLevel" : false,
+     "AutoClearChat": false,
+     "totalForward" : 100000,
+     "explain": false,
+     "jumlahTroli": 2022,
+     
+     "SetFunction": {
+     "Daftar_Font": "block, slick, tiny, grid, pallet, shade, chrome, simple, simpleBlock, 3d, simple3d, huge, console",        
+     "font": "chrome",                      
+     "self": "SELF",
+     "bot": "BOT",
+     "ext": "REVOLUTION"
+     },
+     
+     "antiPrivateChat": {
+     "chatBot" : true,
+     "teksChat" : "Menu Khusus group kak, i'm iMystBot !. jika membutuhkan bot chat ke owner saja nih wa.me/6285811965686 tanks kak"
+     },
+     
+     "setPayment": {
+     "Shopee" : "_•",
+     "Gopay" : "6285691571648",
+     "Dana" : "_•",
+     "Ovo" : "_•"
+     },
+     
+     "setPrefix": {
+     "prefix": ".",
+     "multi": false,
+     "onepref" : true,
+     "nopref" : false
+     },
+     
+     "Pilih salah satu fitur yang mau di aktifkan di bawah ini": "Untuk mengaktifkan ketik true dan false untuk menonaktiflan",
+                                                                                                                                                                                                                                                      
+     "setWelcome": {
+     "autoWelcome": true,
+     "welcomeType": "type3",
+     "background": "https://tinyurl.com/yxvl8h3a"
+     },
+     
+     "setMenu": {
+     "setmenu": "lokasi"
+     },
+     
+     "setReply": {
+     "setWeb": false,
+     "setTroli": false,
+     "setMessage": true,
+     "setVideo": false
+     },
+     
+     "setQuoted": {
+     "Qoted": "fvn"
+     },
+     
+     "gamewaktu": 80,
+	 "limitCount": 20,
+	 "gcount": {
+	 "prem": 90,
+	 "user": 3
+}
+    
+}
+
+   
+   

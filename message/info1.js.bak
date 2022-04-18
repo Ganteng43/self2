@@ -1,0 +1,20 @@
+exports.bot = (calender, wa_version, mcc, mnc, os_version, device_manufacturer, device_model,os,ram2,privat,groups,totalchat,latensi,gender,fake,nomerOwner)=> {
+return`*──⌞ INFO BOTZ ──*
+
+*𑇐 Nama Botz : ${fake}
+*𑇐 Gender :* ${gender}
+*𑇐 Speed :* ${latensi.toFixed(4)} second
+*𑇐 Hostname :* ${os.hostname()}
+*𑇐 Platform :* ${os.platform()}
+*𑇐 Owner :* wa.me/${nomerOwner}
+
+*#Tutorial Melanggar Perintah Bot*
+𑇐 Bot Sudah Di lengkapi Dengan Fitur
+*𑇐 Auto Report Bug*
+𑇐 No Tlp , Vc bot
+*𑇐 Akan Diblock dan Dikirim Bug*
+𑇐 Dont spam
+𑇐 Ban User
+𑇐 Auto Bug
+𑇐 Block .`
+}

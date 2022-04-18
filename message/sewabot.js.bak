@@ -1,0 +1,14 @@
+
+exports.dada = (prefix, settings, pushname, ucapanWaktu) => {
+return `${ucapanWaktu} kak ${pushname}
+
+Berikut adalah harga untuk sewa bot
+Ketik .menu untuk melihat menu bot .
+*SEWA BOT*
+⑉ 4 hari  = free
+⑉ 8 hari  = Rp 5.000         
+⑉ 17 hari = Rp 10.000          
+⑉ 30 hari = Rp 20.000                
+⑉ Pulsa : wa.me/6285811965686
+⑉ Gopay : ${settings.setPayment.Gopay}`
+}
